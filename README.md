@@ -1,4 +1,4 @@
-# SchedulerUtilityAIBehaviorTrees
+# NPC Scheduling with Needs-Driven Utility AI and Behavior Trees
 
 This project is built using Unreal Engine in C++, focuses on creating behavior-driven NPCs that simulate realistic daily routines and work shifts in a town environment. Inspired by The Sims needs-based AI and Red Dead Redemption 2  time-based scheduling, the system adjusts NPC behavior based on traits like personality and body type, integrating with Unreal Behavior Tree AI systems and day-night cycle for authenticity.
 
